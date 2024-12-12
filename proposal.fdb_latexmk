@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1734034540.48698 "/Users/kline.377/imageomics_class/project-proposal-kenyan-ungulates-with-wilddroneeu/proposal.tex" "proposal.pdf" "proposal" 1734034541.86224 0
-  "/Users/kline.377/imageomics_class/project-proposal-kenyan-ungulates-with-wilddroneeu/proposal.tex" 1734034538.80381 11139 ef1427ae08785df7d51dbd8c92408ced ""
+["pdflatex"] 1734034740.72215 "/Users/kline.377/imageomics_class/project-proposal-kenyan-ungulates-with-wilddroneeu/proposal.tex" "proposal.pdf" "proposal" 1734034742.14249 0
+  "/Users/kline.377/imageomics_class/project-proposal-kenyan-ungulates-with-wilddroneeu/proposal.tex" 1734034740.42249 11141 1add0896c2443f3d7a2077027577bd4f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -205,10 +205,10 @@
   "figures/ww3.png" 1734029706.49376 132972 b1f0b2a4442fd144aa8232e6a75d731a ""
   "myacronyms.sty" 1733861401.15311 1063 aa3e63fd705199c86c7f23f5e5c4723a ""
   "mytodonotes.sty" 1733861401.16009 812 7a8d23a90d3f3455a85ceed25f7ac710 ""
-  "proposal.aux" 1734034541.775 5040 8edb9e0bb8a5a93d76fa1e266328ba92 "pdflatex"
-  "proposal.out" 1734034541.77635 1737 51b636843c4375a5424cfe68bed39d3e "pdflatex"
-  "proposal.spl" 1734034540.69588 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "proposal.tex" 1734034538.80381 11139 ef1427ae08785df7d51dbd8c92408ced ""
+  "proposal.aux" 1734034742.05654 5040 8edb9e0bb8a5a93d76fa1e266328ba92 "pdflatex"
+  "proposal.out" 1734034742.05782 1737 51b636843c4375a5424cfe68bed39d3e "pdflatex"
+  "proposal.spl" 1734034740.94534 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "proposal.tex" 1734034740.42249 11141 1add0896c2443f3d7a2077027577bd4f ""
   (generated)
   "proposal.aux"
   "proposal.log"
